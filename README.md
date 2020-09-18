@@ -1,3 +1,5 @@
+# github.com/conceptslearningmachine\
+
 # Windows Template Studio
 
 Windows Template Studio (WinTS) is a Visual Studio 2017 and 2019 Extension that accelerates the creation of new Universal Windows Platform (UWP) apps using a wizard-based experience. The resulting UWP project is well-formed, readable code that incorporates the latest Windows 10 features while implementing proven patterns and best practices. Sprinkled throughout the generated code we have links Docs, Stack Overflow and blogs to provide useful insights. WinTS supports creating apps in C# or VB.Net.
